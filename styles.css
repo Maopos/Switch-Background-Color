@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100hv;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.theme {
+    margin-right: 20px;
+    padding: 16px;
+    border-radius: 4px;
+    background: rgba(0, 0, 0, .15);
+    box-shadow: 6px 7px 8px rgba(0, 0, 0, .1);
+    cursor: pointer;
+}
+
